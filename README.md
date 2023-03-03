@@ -2,7 +2,7 @@ Hier gibt es allgemeine Infos zum Projekt wie Bauplan und Tipps.
 Die Hardware kann stückweise erweitert werden. Für den ersten Test reicht der Controller + Fototransistor.
 
 INSTALLATION:  
-1. Binarie aus Repositiory laden.  
+1. Binary aus Repositiory laden.  
 2. Mit Flashtool flashen (https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13), 0x10000 als Adresse einstellen.  
 3. Nach Start baut der ESP einen Accesspunkt für ein Minute auf. Einwählen, Heimnetz eintragen. Dann starter er neu und meldet sich an.  
 4. Im Router ESP eintragen als: esp32-pv-anlage  (zunächst nicht zwingend notwendig, aber da man eh nach der IP-Adresse schauen muss ist das ein Abwasch)  
