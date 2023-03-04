@@ -1,5 +1,5 @@
 Hier gibt es allgemeine Infos zu meinem Projekt für eine DIY PV Anlage mit Nulleinspeisung via IR Schnittstelle vom Einheitenzähler.  
-Ihr könnt mehr über das Projekt auf [Youtube](https://www.youtube.com/@ichbaupv8402) erfahren:   
+Ihr könnt mehr über das Projekt auf [Youtube](https://www.youtube.com/@ichbaupv8402) erfahren.   
 Am besten [vorne](https://www.youtube.com/watch?v=iOFwGEbs9Tw) starten.  
 
 An dieser Stelle findet Ihr Infos wie Verdrahtungsplan, Anleitungen, Tipps, etc.  
