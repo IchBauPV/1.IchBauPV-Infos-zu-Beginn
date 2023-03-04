@@ -4,7 +4,7 @@ Am besten vorne starten: https://www.youtube.com/watch?v=iOFwGEbs9Tw
 
 An dieser Stelle findet Ihr Infos wie Bauplan, Anleitungen, Tipps, etc.  
 
-Die Hardware kann stückweise erweitert werden. Für den ersten Test reicht der Controller + Fototransistor / IR-Lesekopf an PIN 16/RX2.
+Die Hardware kann stückweise erweitert werden. Für den ersten Test reicht der Controller + Fototransistor / IR-Lesekopf an PIN16/RX2.
 
 INSTALLATION:  
 1. Binary aus Repositiory laden (https://github.com/IchBauPV/2.ESP32-PV-Controller-Binaries  
