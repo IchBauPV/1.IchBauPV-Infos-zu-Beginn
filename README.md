@@ -2,7 +2,7 @@ Hier gibt es allgemeine Infos zu meinem Projekt für eine DIY PV Anlage mit Null
 Ihr könnt mehr über das Projekt auf Youtube erfahren: https://www.youtube.com/@ichbaupv8402  
 Am besten vorne starten: https://www.youtube.com/watch?v=iOFwGEbs9Tw
 
-An dieser Stelle findet Ihr Infos wie Bauplan, Tipps, etc.  
+An dieser Stelle findet Ihr Infos wie Bauplan, Anleitungen, Tipps, etc.  
 
 Die Hardware kann stückweise erweitert werden. Für den ersten Test reicht der Controller + Fototransistor.
 
