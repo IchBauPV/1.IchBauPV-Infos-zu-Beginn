@@ -7,8 +7,7 @@ An dieser Stelle findet Ihr Infos wie Bauplan, Anleitungen, Tipps, etc.
 Die Hardware kann stückweise erweitert werden. Für den ersten Test reicht der Controller + Fototransistor.
 
 INSTALLATION:  
-1. Binary aus Repositiory laden (https://github.com/IchBauPV/ESP32-PV-Controller-Binaries).  
-2. //2.ESP32-PV-Controller-Binaries
+1. Binary aus Repositiory laden (https://github.com/IchBauPV/2.ESP32-PV-Controller-Binaries  
 3. Mit Flashtool flashen (https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13), 0x10000 als Adresse einstellen, Haken setzen und natürlich den richtigen COM Port einstellen - und Start drücken.
 4. Nach dem Start baut der ESP einen WLAN-Accesspunkt für ca. eine Minute auf. Einwählen, Heimnetz eintragen. Dann starter er neu und meldet sich im Heimnetz an.  
 5. Im Router ESP eintragen als: esp32-pv-anlage  (zunächst nicht zwingend notwendig, aber da man eh nach der IP-Adresse schauen muss, ist das aber ein Abwasch)  
