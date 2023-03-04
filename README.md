@@ -8,7 +8,7 @@ Die Hardware kann stückweise erweitert werden. Für den ersten Test reicht der 
 
 INSTALLATION:  
 1. Binary aus Repositiory laden (https://github.com/IchBauPV/2.ESP32-PV-Controller-Binaries  
-3. Mit Flashtool (https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13) flashen: ESP32 auswählen, Binary-Datei auwählen, 0x10000 als Adresse einstellen, Haken setzen, den richtigen COM Port einstellen - und START drücken.
+3. Mit Flashtool (https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13) flashen: ESP32 auswählen, Binary-Datei auwählen, 0x10000 als Adresse eingeben, Haken setzen, den richtigen COM Port einstellen - und START drücken.
 4. Nach dem Start baut der ESP einen WLAN-Accesspunkt für ca. eine Minute auf. Einwählen, Heimnetz eintragen. Dann starter er neu und meldet sich im Heimnetz an.  
 5. Im Router ESP eintragen als: esp32-pv-anlage  (zunächst nicht zwingend notwendig, aber da man eh nach der IP-Adresse schauen muss, ist das aber ein Abwasch)  
 6. Um die IR-Verbindung zum Einheitenzähler zu prüfen, ist ein Serieller Monitor sehr nützlich (z.B Coolterm oder HTerm) 115200 Baud 8N1. Hier werden auch Debug Informationen und der komplette SML Datensatz des Zählers ausgeben sowie der ggf gefundene Gesamtverbrauch und die Wirkleistung.  
