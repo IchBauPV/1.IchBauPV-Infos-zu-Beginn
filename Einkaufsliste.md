@@ -19,6 +19,6 @@ Pos	|	Anzahl	|	Bezeichnung	|	EP	|	Gesamt	|	Bemerkung	|	Quelle	|	Link	|
 17	|	1	|	Sicherungskasten (für 8 Sicherungen)	|	22,51	|	22,51	|	Intratec MKCAGH8-T MKCAGH8-T Verteilerschrank	|	Völkner	| [link](		)|
 18	|	22	|	m Kabel 16mm² und 10 m 3x4mm²	|	75,00	|	0,00	|		|	cse-technik.de.	| [link](	cse-technik.de.	)|
 19	|	1	|	Montage Panele	|	0,00	|	2.000,00	|	Lokale Firma	|		| [link](		)|
-20	|	1	|	3. Soyosource	|	0,00	|	215,00	|	Jesudemo Store in Polen! Gut!	|	Aliexpress	| [link](	https://de.aliexpress.com/item/1005004861406895.html?spm=a2g0o.order_list.order_list_main.30.29b45c5fE5U7jK&gatewayAdapt=glo2deu	)|
+20	|	1	|	3. Soyosource 1200 PV55-90 Bat48V LCD 	|	0,00	|	215,00	|	Jesudemo Store in Polen! Gut!	|	Aliexpress	| [link](	https://de.aliexpress.com/item/1005004861406895.html?spm=a2g0o.order_list.order_list_main.30.29b45c5fE5U7jK&gatewayAdapt=glo2deu	)|
 21	|	1	|	ESP32	|	3,50	|	3,50	|	1 von 3 hat nicht funktioniert, musste einen Widerstand entfernen	|	Aliexpress	| [link](	https://de.aliexpress.com/item/32864722159.html?spm=a2g0o.order_list.order_list_main.137.21ef5c5fBcmlYh&gatewayAdapt=glo2deu	)|
 
