@@ -22,14 +22,14 @@ Alternativ kann man den [ESPHome-Flasher](https://github.com/esphome/esphome-fla
 ## P I N B E L E G U N G  D..   für ESP32 WROOM  ##
 |PIN|Beschreibung|
 |------|------|
-| 1 |TX IR zum Zähler        //  1: TX von serieller Kommunikation |
+| 1 |TX  USB                  //  1: TX von serieller Kommunikation |
 | 2 |OB_LED_Pin               //  2 : Built in LED für Anzeige von Datenempfang  |
-| 3 |RX IR  Zähler unbenutzt  //  3 : RX von serieller Kommunikation 
+| 3 |RX USB                   //  3 : RX von serieller Kommunikation 
 | 4 |RS485_RX_Pin             //  4 : RX bzw RO von RS485; (Lesen wird hier nicht verwendet, Modeumschaltung Lesen/Schreiben bisher auch nicht  |
 | 5 |R5485_TX_Pin             //  5 : TX bzw DI von  RS485;  |
 | 13| Buzzer_Pin              // 13 : Buzzer für Alarm keine Daten seit x sec; muss nicht eingebaut werden  |
-| 15| RS485_Tog_Pin           // 15 : Pin zum Umschalten von RX (high) auf RX (Low)  |
-| 16| IRHead_RX_Pin           // 16 : RX von IRHead  |
+| 15| RS485_Tog_Pin           // 15 : Pin zum Umschalten von TX (high) auf RX (Low)  |
+| 16| IRHead_RX_Pin           // 16 : RX von IRHead - Eingang von Infrarottransisitor |
 | 17| IRHead_TX_Pin           // 17 : TX von IRHead (wird nicht verwendet, kommt vielleicht noch  |
 | 18| IR_Green_Pin            // 18 : Led Grün: erfolgreich gelesen  |
 | 19| IR_Red_Pin              // 19 : Led rot: Lesefehler  |
