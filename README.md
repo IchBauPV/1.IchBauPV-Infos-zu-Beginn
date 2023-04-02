@@ -6,7 +6,8 @@ An dieser Stelle findet Ihr Infos wie Verdrahtungsplan, Anleitungen, Tipps, etc.
 
 Die Hardware kann stückweise erweitert werden. Für den ersten Test reicht der Controller + Fototransistor / IR-Lesekopf an PIN16/RX2.
 
-## KURZANLEITUNG INSTALLATION: ##
+## KURZANLEITUNG INSTALLATION:  ##  
+[Videolink ESP Flashtool](https://youtu.be/iqd3WWOy71I?t=407) <-> [Videolink ESPHome Flashtool](https://youtu.be/hs3ob4z7LAg?t=78) (bei Erstintstallation ggf. besser)
 1. Binary aus [Repositiory](https://github.com/IchBauPV/2.ESP32-PV-Controller-Binaries)  laden. Wenn nicht anders vermerkt, neueste Version verwenden.  
 2. ACHTUNG: Es gibt verschiedene ESP32 Generationen und Clone und teilweise Probleme mit der 240Mhz Standard-Version (ESP8266 geht nicht!). Daher ist für die Tests auch eine 160Mhz Version verfügbar. Meine Tests mache ich auf einem ESP32-Wroom, 30 PIN, 4MB mit 240 MHz. Weitere Tipps für eventuelle Fehlerbehebungen gibt es auf der Seite [Troubleshooting](https://github.com/IchBauPV/2.ESP32-PV-Controller-Binaries/blob/main/Troubleshooting.md).
 4. Mit [Flashtool](https://www.espressif.com/en/support/download/other-tools?keys=&field_type_tid%5B%5D=13) flashen: ESP32 auswählen, Binary-Datei auwählen, 0x10000 als Adresse eingeben, Haken setzen, den richtigen COM Port einstellen - und START drücken. Funktioniert bei 4MB, solange der Bootloader noch original ist. ESPRESSIF: At a 0x10000 (64 KB) offset in the flash is the app labelled “factory”. The bootloader will run this app by default. 
