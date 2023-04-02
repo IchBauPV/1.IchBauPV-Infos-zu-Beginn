@@ -33,6 +33,6 @@ Alternativ kann man den [ESPHome-Flasher](https://github.com/esphome/esphome-fla
 | 17| IRHead_TX_Pin           // 17 : TX von IRHead (wird nicht verwendet, kommt vielleicht noch  |
 | 18| IR_Green_Pin            // 18 : Led Grün: erfolgreich gelesen  |
 | 19| IR_Red_Pin              // 19 : Led rot: Lesefehler  |
-| 20| SDA_Pin                 // 21 : SDA für 1602 Display   ; muss nicht eingebaut werden    Display: 22 = SCL; 21 = SDA  |
-| 21| SCL_Pin                 // 22 : SCL für 1602 Display  |
+| 21| SDA_Pin                 // 21 : SDA für 1602 Display   ; muss nicht eingebaut werden    Display:  21 = SDA; 22 = SCL  |
+| 22| SCL_Pin                 // 22 : SCL für 1602 Display  |
 | 27| Touch_Pin               // 27 : touch pin Taster für LCD Beleuchtung  ; muss nicht eingebaut werden  |
