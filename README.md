@@ -29,7 +29,7 @@ Alternativ kann man den [ESPHome-Flasher](https://github.com/esphome/esphome-fla
 | 4 |RS485_RX_Pin             //  4 : RX bzw RO von RS485; (Lesen wird hier nicht verwendet  |
 | 5 |R5485_TX_Pin             //  5 : TX bzw DI von  RS485;  |
 | 13| Buzzer_Pin              // 13 : Buzzer für Alarm keine Daten seit x sec; muss nicht eingebaut werden  |
-| 15| RS485_Tog_Pin           // 15 : Pin zum Umschalten deS RS485 Boards von TX (high) auf RX (Low)  |
+| 15| RS485_Tog_Pin           // 15 : Pin zum Umschalten des RS485 Boards von TX (high) auf RX (Low)  |
 | 16| IRHead_RX_Pin           // 16 : RX von IRHead - Eingang von Infrarottransisitor |
 | 17| IRHead_TX_Pin           // 17 : TX von IRHead (wird nicht verwendet, kommt vielleicht noch  |
 | 18| IR_Green_Pin            // 18 : Led Grün: erfolgreich gelesen  |
