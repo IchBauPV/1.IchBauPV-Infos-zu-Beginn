@@ -36,7 +36,7 @@ Alternativ kann man den [ESPHome-Flasher](https://github.com/esphome/esphome-fla
 11. Thats all. Have fun!!!
 
 
-## P I N B E L E G U N G  D..   für ESP32 WROOM  ##
+## PINBELEGUNG  D..   für ESP32 WROOM  ##
 |PIN|Beschreibung|
 |------|------|
 | 1 |TX  USB                  //  1: TX von PC-USB Anschluss für serielle Kommunikation |
