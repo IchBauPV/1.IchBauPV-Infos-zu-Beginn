@@ -1,10 +1,26 @@
 # Allgemeine Infos zum/vor dem Start #
-Hier gibt es allgemeine Infos zu meinem Projekt für eine DIY PV Anlage mit Nulleinspeisung via IR-Schnittstelle vom Einheitenzähler.  
+Hier gibt es allgemeine Infos zu meinem Projekt für eine DIY PV Anlage mit Nulleinspeisung **via IR-Schnittstelle vom Einheitenzähler**.  
 Ihr könnt mehr über das Projekt auf [Youtube](https://www.youtube.com/watch?v=iOFwGEbs9Tw&list=PLFa5aG87q-WGfzpkVKIt8b8U_0DEjR42b) erfahren. Am besten Playlist vorne starten zur Einführung, was das Ganze soll, für wen es ist und wie es funktioniert.  
 
-An dieser Stelle findet Ihr Infos wie Verdrahtungsplan, Anleitungen, Tipps, etc.  
+**An dieser Stelle findet Ihr Infos wie Verdrahtungsplan, Anleitungen, Tipps, etc.**  
 
 Die Hardware kann stückweise erweitert werden. Für den ersten Test reicht der Controller + Fototransistor / IR-Lesekopf an PIN16/RX2.
+
+## Bisher erfolgreich eingebundene Zähler:  ##  
+|Hersteller|Bezeichnung|
+|------|------|
+|DZG Metering GmbH|	DVS7420.1.G2|
+|ERF	|SGM-C8 |
+|ISKRA	| MT175|
+|EMH|	EMH iw8e2a5l0ek2p|
+|EBZ	|DD3-2R10 DTA-SMZ1|
+|Landis	|eBZD e320|
+
+### Zähler, die nicht eingebunden werden können:  ###  
+Zähler aus Österreich, da diese verschlüsselt senden, wie der Siemens IM350  
+Zähler, die zuerst eine Abfragemessage erwarten, wie der Elster AS1440
+
+
 
 ## KURZANLEITUNG INSTALLATION:  ##  
 [Videolink ESP Flashtool](https://youtu.be/iqd3WWOy71I?t=407) <-> [Videolink ESPHome Flashtool](https://youtu.be/hs3ob4z7LAg?t=78) (bei Erstintstallation ggf. besser)
